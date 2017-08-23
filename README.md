@@ -4,6 +4,7 @@ Node and browser ES6 for doing a binary search that doesn't block async backgrou
 *
 **usage**
 var bsearch=require('./bsearch.js');
+
 var result=bsearch(numberArray, numToFind,chunk); The [] should be sorted,
 */
 
